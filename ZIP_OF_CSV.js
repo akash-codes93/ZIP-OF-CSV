@@ -1,3 +1,9 @@
+	/* Add these scripts in your page */
+	
+	/*<script type="text/javascript" src="http://stuk.github.io/jszip/dist/jszip.min.js"></script>
+    <script type="text/javascript" src="http://stuk.github.io/jszip/vendor/FileSaver.js"></script>*/
+	
+
 	var zip = new JSZip();
 	
 	var csv = function () {
